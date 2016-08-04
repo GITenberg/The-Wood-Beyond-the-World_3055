@@ -1,0 +1,37 @@
+_repo: The-Wood-Beyond-the-World_3055
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Morris, William
+    alias: Morris, William M.
+    birthdate: 1834
+    deathdate: 1896
+    gutenberg_agent_id: '107'
+    url: http://www.gutenberg.org/2009/agents/107
+    wikipedia: http://en.wikipedia.org/wiki/William_Morris
+description: "The Wood Beyond the World is a fantasy novel by William Morris, perhaps\
+  \ the first modern fantasy writer to unite an imaginary world with the element of\
+  \ the supernatural, and thus the precursor of much of present-day fantasy literature.\
+  \ It was first published in hardcover by Morris's Kelmscott Press, in 1894. The\
+  \ book's importance in the history of fantasy literature was recognized by its republication\
+  \ by Ballantine Books as the third volume of the celebrated Ballantine Adult Fantasy\
+  \ series in July, 1969. The Ballantine edition includes an introduction by Lin Carter.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Fantasy
+gutenberg_issued: '2002-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3055'
+  wikidata: Q7775713
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fantasy fiction'
+- GITenberg
+title: The Wood Beyond the World
+url: http://www.gutenberg.org/ebooks/3055
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Wood_Beyond_the_World
