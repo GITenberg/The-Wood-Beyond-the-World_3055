@@ -1,5 +1,8 @@
 _repo: The-Wood-Beyond-the-World_3055
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Morris, William
@@ -17,6 +20,8 @@ description: "The Wood Beyond the World is a fantasy novel by William Morris, pe
   \ by Ballantine Books as the third volume of the celebrated Ballantine Adult Fantasy\
   \ series in July, 1969. The Ballantine edition includes an introduction by Lin Carter.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3055#The-Wood-Beyond-the-World
 gutenberg_bookshelf: Fantasy
 gutenberg_issued: '2002-02-01'
 gutenberg_type: Text
